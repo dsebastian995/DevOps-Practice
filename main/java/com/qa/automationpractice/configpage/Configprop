@@ -1,0 +1,8 @@
+browser=chrome
+url=https://demo.opencart.com/
+username=donalamb1995@gmail.com
+password=donapoppy123
+headless=false
+incognito=true
+huburl=
+remote=false
